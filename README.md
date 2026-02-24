@@ -108,7 +108,7 @@ Dadapeer
 Student Result Management System – Full Stack Web Application
 ## Screenshots
 
-![Home Page](screenshots/home.png)
-![Add Student](screenshots/add_student.png)
-![Add Marks](screenshots/add_marks.png)
-![View Result](screenshots/view_result.png)
+![Home Page](images/home.png)
+![Add Student](images/add_student.png)
+![Add Marks](images/add_marks.png)
+![View Result](images/view_result.png)
